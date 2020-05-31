@@ -41,7 +41,6 @@ public class MapDemo {
 }
 class Demo{
     public String getName() {
-    	System.out.println("111");
         return name;
     }
 
