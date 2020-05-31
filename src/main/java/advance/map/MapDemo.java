@@ -53,7 +53,7 @@ class Demo{
     }
     public void prin() {
     	
-    	System.out.println("hello world");
+    	System.out.println("你好啊");
     }
     public void setSex(String sex) {
         this.sex = sex;
