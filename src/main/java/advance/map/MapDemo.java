@@ -51,7 +51,10 @@ class Demo{
     public String getSex() {
         return sex;
     }
-
+    public void prin() {
+    	
+    	System.out.println("hello world");
+    }
     public void setSex(String sex) {
         this.sex = sex;
     }
